@@ -1,6 +1,8 @@
 # MaxPhisher
 git clone https://github.com/sksohal7/MaxPhisher
 
+cd MaxPhisher
+
 unzip MaxPhisher
 
 ##### Enter the directory
